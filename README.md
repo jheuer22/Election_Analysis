@@ -16,7 +16,7 @@ A Colorado Board of Elections employee has given you the follwoing tasts to comp
 ## Summary 
 The analysis of the elections show that: 
  - There were 369,711 votes case in the election 
- - the candidates were: 
+ - The candidates were: 
       - Charles Casper Stockham
       - Diana DeGette
       - Raymon Anthony Doane
